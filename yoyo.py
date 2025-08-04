@@ -1,1 +1,1 @@
-echo "efffverfewrvrwv"
+print ("efffverfewrvrwv")
